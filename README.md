@@ -46,13 +46,13 @@ Mas G, [...], Boisbouvier J. *Science Advances* (2018)
 ## Software
 
 -  **llps** — Automated liqui-liqud phase microscopy pictures analysis  
-  [GitHub](https://github.com/masgu/llps_pdia6)
+  [GitHub](https://github.com/mas-gu/llps_pdia6)
 
 - **lunaNMR** — Automated 2D NMR spectral analysis  
-  [GitHub](https://github.com/masgu/lunaNMR)
+  [GitHub](https://github.com/mas-gu/lunaNMR)
 
 - **dynamiXs** — Protein dynamics from NMR relaxation data  
-  [GitHub](https://github.com/masgu/dynamiXs)
+  [GitHub](https://github.com/mas-gu/dynamiXs)
 
 ---
 
