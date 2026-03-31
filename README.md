@@ -17,7 +17,8 @@ I study nucleotide-driven molecular machines using NMR spectroscopy, combining e
 * **Molecular chaperones** — Eukaryotic Hsp70 functional cycles and co-chaperone regulation
 * **Chaperone condensates** — Liquid-liquid phase separation in stress responses
 
-My interests are expanding toward systematic characterisation of molecular machines and computational design of binders that modulate their function.
+My interests are expanding toward systematic characterisation of molecular machines and computational design of binders that modulate their function. 
+
 ---
 
 ## Selected Publications
