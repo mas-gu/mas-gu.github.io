@@ -1,26 +1,23 @@
-# masgu.github.io
-
 # Guillaume Mas
 
 **Research Associate** at Hiller Lab, Biozentrum, University of Basel  
-Structural Biology & NMR Spectroscopy
+Structural Biology & NMR Spectroscopy  
+ORCID: [0000-0002-2351-0455](https://orcid.org/0000-0002-2351-0455)
 
 ---
 
 ## Research Interests
 
-I study ATP-driven molecular machines and protein quality control mechanisms using NMR spectroscopy. My work combines experimental structural biology with computational tool development to understand how chaperone networks maintain cellular proteostasis.
-
-### ATPase Functional Cycles
-
-Molecular chaperones like Hsp70 undergo conformational changes driven by ATP binding and hydrolysis. Understanding these dynamic cycles is essential to deciphering how chaperones recognize, fold, and triage client proteins. I pioneered **"in-cyclo NMR"**, a methodology that captures structural snapshots of chaperones at each stage of their ATPase cycle, revealing the mechanistic basis of substrate engagement and release.
+I study nucleotide-driven molecular machines using NMR spectroscopy, combining experimental structural biology with computational tool development. My research focuses on two systems: **RAS GTPases**, where oncogenic mutations corrupt the molecular switch function driving approximately 19% of human cancers, and **Hsp70 chaperones**, which maintain cellular proteostasis. I pioneered **in-cyclo NMR**, a methodology that simultaneously captures enzymatic kinetics and structural transitions throughout functional cycles. I am also developing computational binder design tools to translate mechanistic insights into targeted molecular interventions.
 
 ### Current Focus
 
-- **Molecular chaperones** — Eucaryote Hsp70 functional cycles
-- **J-domain proteins** — Co-chaperone specificity and functional diversity
-- **Liquid-liquid phase separation** — Chaperone condensates in stress responses
+* **RAS GTPases** — Kinetic-structural characterisation of oncogenic variants
+* **Binder design** — Computational design and experimental validation of protein binders
+* **Molecular chaperones** — Eukaryotic Hsp70 functional cycles and co-chaperone regulation
+* **Chaperone condensates** — Liquid-liquid phase separation in stress responses
 
+My interests are expanding toward systematic characterisation of molecular machines and computational design of binders that modulate their function.
 ---
 
 ## Selected Publications
@@ -41,25 +38,32 @@ Mas G, Burmann BM, Sharpe T, Claudi B, Bumann D, Hiller S. *Science Advances* (2
 Mas G, [...], Boisbouvier J. *Science Advances* (2018)  
 [DOI: 10.1126/sciadv.aau4196](https://doi.org/10.1126/sciadv.aau4196)
 
+**Large-scale exploration of protein space by automated NMR**  
+Müntener T, Abramson D, Stern E, Hertel I, Jankevicius G, Mas G, Folkers GE, Wicky BIM, Hiller S. *bioRxiv* (2026)  
+[DOI: 10.1101/2026.02.16.706194](https://doi.org/10.1101/2026.02.16.706194)
+
 ---
 
 ## Software
 
--  **llps** — Automated liqui-liqud phase microscopy pictures analysis  
-  [GitHub](https://github.com/mas-gu/llps_pdia6)
-
-- **lunaNMR** — Automated 2D NMR spectral analysis  
+* **lunaNMR** — Large-scale NMR peak quantification with kinetic and dynamic fitting  
   [GitHub](https://github.com/mas-gu/lunaNMR)
 
-- **dynamiXs** — Protein dynamics from NMR relaxation data  
-  [GitHub](https://github.com/mas-gu/dynamiXs)
+* **binderflow** — Multi-algorithm computational pipeline for de novo binder design  
+  [GitHub](https://github.com/mas-gu/binderflow)
+
+* **nmrflow** — Interactive NMR spectrum viewer with phase correction and NMRPipe integration  
+  [GitHub](https://github.com/mas-gu/nmrflow)
+
+* **llps** — Automated liquid-liquid phase separation microscopy analysis  
+  [GitHub](https://github.com/mas-gu/llps_pdia6)
 
 ---
 
 ## Selected Awards
 
-- EUROMAR Young Scientist Award
-- Journal of Magnetic Resonance Award
+* EUROMAR Young Scientist Award
+* Journal of Magnetic Resonance Award
 
 ---
 
