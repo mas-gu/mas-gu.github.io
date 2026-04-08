@@ -1,27 +1,27 @@
 # Guillaume Mas
 
-**Research Associate** at Hiller Lab, Biozentrum, University of Basel  
+**Research Associate** · Hiller Lab, Biozentrum, University of Basel  
 Structural Biology & NMR Spectroscopy  
 ORCID: [0000-0002-2351-0455](https://orcid.org/0000-0002-2351-0455)
 
 ---
 
-## Research Interests
+## Research interests
 
-I study nucleotide-driven molecular machines using NMR spectroscopy, combining experimental structural biology with computational tool development. My research focuses on **Hsp70 chaperones**, which maintain cellular proteostasis. I pioneered **in-cyclo NMR**, a methodology that simultaneously captures enzymatic kinetics and structural transitions throughout functional cycles. My future research will focus on **RAS GTPases**, where oncogenic mutations corrupt the molecular switch function driving approximately 19% of human cancers. I am also developing computational binder design tools to translate mechanistic insights into targeted molecular interventions.
+I study nucleotide-driven molecular machines using NMR spectroscopy, combining experimental structural biology with computational tool development. My research focuses on **Hsp70 chaperones**, which maintain cellular proteostasis. I pioneered **in-cyclo NMR**, a methodology that simultaneously captures enzymatic kinetics and structural transitions throughout functional cycles. My future research will systematically decode how oncogenic mutations reprogram **RAS GTPase** function, a molecular switch driving approximately 19% of human cancers. I am also developing computational binder design tools to translate mechanistic insights into targeted molecular interventions.
 
-### Current Focus
+### Current focus
 
-* **RAS GTPases** — Kinetic-structural characterisation of oncogenic variants
-* **Binder design** — Computational design and experimental validation of protein binders
+* **RAS GTPases** — Systematic kinetic-structural characterisation of oncogenic variants
 * **Molecular chaperones** — Eukaryotic Hsp70 functional cycles and co-chaperone regulation
 * **Chaperone condensates** — Liquid-liquid phase separation in stress responses
+* **Binder design** — Computational design and experimental validation of protein binders
 
-My interests are expanding toward systematic characterisation of molecular machines and computational design of binders that modulate their function. 
+My future programme will combine high-throughput NMR, cryo-EM and cell-based assays to systematically characterise molecular machines and their roles in disease.
 
 ---
 
-## Selected Publications
+## Selected publications
 
 **A multichaperone condensate enhances protein folding in the endoplasmic reticulum**  
 Leder A, Mas G\*, Szentgyörgyi V, Jakob RP, Maier T, Spang A, Hiller S\*. *Nature Cell Biology* (2025)  
@@ -61,7 +61,7 @@ Müntener T, Abramson D, Stern E, Hertel I, Jankevicius G, Mas G, Folkers GE, Wi
 
 ---
 
-## Selected Awards
+## Selected awards
 
 * EUROMAR Young Scientist Award
 * Journal of Magnetic Resonance Award
@@ -71,7 +71,7 @@ Müntener T, Abramson D, Stern E, Hertel I, Jankevicius G, Mas G, Folkers GE, Wi
 ## Education
 
 **PhD in Structural Biology** — IBS Grenoble  
-Supervisor: Dr. Jérôme Boisbouvier
+Supervisor: Dr Jérôme Boisbouvier
 
 ---
 
