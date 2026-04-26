@@ -8,7 +8,7 @@ ORCID: [0000-0002-2351-0455](https://orcid.org/0000-0002-2351-0455)
 
 ## Research interests
 
-I study nucleotide-driven molecular machines using NMR spectroscopy, combining experimental structural biology with computational tool development. My research focuses on **Hsp70 chaperones**, which maintain cellular proteostasis. I pioneered **in-cyclo NMR**, a methodology that simultaneously captures enzymatic kinetics and structural transitions throughout functional cycles. My future research will systematically decode how oncogenic mutations reprogram **RAS GTPase** function, a molecular switch driving approximately 19% of human cancers. I am also developing computational binder design tools to translate mechanistic insights into targeted molecular interventions.
+I study nucleotide-driven molecular machines using NMR spectroscopy, combining experimental structural biology with computational tool development. My research focuses on **Hsp70 chaperones**, which maintain cellular proteostasis. I pioneered **in-cyclo NMR**, a methodology that simultaneously captures enzymatic kinetics and structural transitions throughout functional cycles. 
 
 ### Current focus
 
